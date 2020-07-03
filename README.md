@@ -14,3 +14,5 @@ Contains everything needed for the Streamlit app to test the model and classify 
 1. Install the required libraries (virtual environment usage recommended) using `pip install -r requirements.txt`. 
 2. Open your terminal or Command Prompt and run the app via `streamlit run app/app.py`. Streamlit should open a page in your web browser of choice.
 3. Classify your image!
+
+![Example image of the app](https://github.com/G-Benn/fashion-classification/tree/master/app/example_img.JPG)
